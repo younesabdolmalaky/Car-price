@@ -1,5 +1,7 @@
 # Car Selling Price Prediction with XGBoost Regression
 
+![used-car-selling-768x512](https://user-images.githubusercontent.com/75095471/218719215-3425c3ae-f4e2-4f7d-8de9-ea8db0b51744.jpg)
+
 ## About Dataset
 
 This dataset contains information about used cars.
